@@ -1,0 +1,8 @@
+# Fichiers personnels — ne pas publier
+profile.pdf
+assets/archive/
+profils/
+.claude/
+
+# Originaux non utilisés par le site (versions .webp utilisées)
+assets/images/*.png
