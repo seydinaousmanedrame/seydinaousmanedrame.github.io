@@ -436,7 +436,7 @@ strong { color: var(--heading); font-weight: 700; }
   .hero-visual { order: -1; }
   .portrait { width: min(300px, 78vw); }
   .float-card { font-size: .78rem; padding: .55rem .8rem; }
-  .fc-1 { left: -14%; top: 30%; }
+  .fc-1 { left: -18%; top: 50%; }
   .fc-2 { right: -14%; bottom: 8%; }
   .scroll-hint { display: none; }
 
@@ -454,7 +454,7 @@ strong { color: var(--heading); font-weight: 700; }
 @media (max-width: 520px) {
   .container { padding: 0 16px; }
   .skills-grid, .lang-grid, .form-row, .pf-features { grid-template-columns: 1fr; }
-  .fc-1 { left: -6%; }
+  .fc-1 { left: -10%; top: 52%; }
   .fc-2 { right: -6%; }
   .fc-3 { display: none; }
   .pf-body { padding: 1.6rem; }
